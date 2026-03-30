@@ -1,0 +1,153 @@
+#{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(32, 95, 231);
+}
+
+
+#outerdiv{
+
+
+    margin: 0 auto;
+    height: 1000px;
+    width: 1300px;
+    border: 1px solid #000;;
+    display: grid;
+    grid-template-columns: 600px 600px ;
+    justify-items: center;
+    align-items: center;
+    column-gap: 20px;
+    background-color: rgb(32, 95, 231);
+    border: none;
+
+}
+.innerdiv{
+    background-color: aliceblue;
+    border-radius: 10px;
+    width:350px ;
+    height:350px ;
+    border: none;
+    margin: 100px;
+    
+}
+.inner2div{
+
+     background-color: aliceblue;
+    border-radius: 10px;
+    width:400px ;
+    height:450px ;
+    margin-left: 30px;
+    margin-right: 100px;
+    margin-bottom: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom:1px solid #ccc ;
+    border: none;
+
+    
+
+
+}
+#button{
+    color: aliceblue;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(12, 108, 233);
+    margin: auto auto;
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+   
+}
+#button2{
+    color: aliceblue;
+    width: 330px;
+    height: 30px;
+    background-color: rgb(11, 112, 245);
+    margin: auto auto;
+    margin-left: 33px;
+    border-radius: 5px;
+    border: none;
+
+}
+.innerdiv{
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.div1{
+
+margin-left: 15px;
+border: none;
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+.div2{
+    margin-left: 15px;
+border: none;
+border-bottom: 10px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.div3{
+    margin-left: 15px;
+border: none;
+border-bottom: 10px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.div0{
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.innerdiv21{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.innerdiv22{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom:1px solid #ccc ;
+    border: none;
+    
+}
+.div41{
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.div23{
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 300px;
+}
+input{
+    border: none;
+    
+}
+.ps{
+     border-bottom: 1px solid black;
+    width: 300px;
+}
+.div4{
+     border-bottom: 1px solid black;
+    width: 300px;
+}
+.div42{
+     border-bottom: 1px solid black;
+    width: 300px;
+}
+.div44{
+     border-bottom: 1px solid black;
+    width: 300px;
+}
+.div46{
+     border-bottom: 1px solid black;
+    width: 300px;
+}
+
