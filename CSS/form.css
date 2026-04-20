@@ -44,7 +44,7 @@ body{
     margin-right: 100px;
     margin-bottom: 110px;
     font-family: Arial, Helvetica, sans-serif;
-    border-bottom:1px solid #ccc ;
+    border-bottom:1px solid aliceblue ;
     border: none;
 
     
@@ -74,13 +74,13 @@ body{
 
 }
 .innerdiv{
-    margin: 15px;
+    margin: 20px;
     font-family: Arial, Helvetica, sans-serif;
     
 }
 .div1{
 
-margin-left: 15px;
+margin-left: 20px;
 border: none;
 font-family: Arial, Helvetica, sans-serif;
 

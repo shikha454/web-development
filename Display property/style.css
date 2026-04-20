@@ -1,0 +1,74 @@
+#div1{
+    
+    display: block;
+    background-color: aqua;
+    height: 40px;
+    width: 50%;
+    border: 2px solid black;
+}
+#div2{
+    border: 2px solid black;
+    width: 50%;
+    display: block;
+}
+.div3{
+    border: 2px solid black;
+    width: 50%;
+    display: inline;
+}
+.First-container div {
+    border: 2px solid black;
+    width: 50%;
+}
+
+/* This is the second container with inline */
+.Second-container div {
+    border: 2px solid black;
+    width: 50%;
+    /* apply display inline */
+    display: inline;
+}
+
+.nav-container {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center; /* Centers the inline-block elements */
+}
+
+.box {
+    /* The Magic Property */
+    display: inline-block;
+    
+    /* Box Dimensions */
+    width: 120px;
+    height: 50px;
+    line-height: 50px; /* Centers text vertically */
+    
+    /* Spacing and Styling */
+    margin: 10px;
+    padding: 5px;
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+}
+ width: 200px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.visible {
+    background-color: #28a745; /* Green */
+}
+
+.hidden {
+    /* The Magic Property */
+    display: none;
+    
+    background-color: #dc3545; /* Red - but you won't see it! */
+}
+

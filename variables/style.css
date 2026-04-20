@@ -1,0 +1,38 @@
+:root{
+    --main-color:pink;
+    --sub-color:blue;
+    --text-color:green;
+    --table-color:black;
+    --th-color:red;
+
+
+}
+h1{
+    color: var(--main-color);
+}
+h3{
+    color: var(--main-color);
+}
+p{
+    color: var(--text-color);
+}
+td{
+    color:var(--table-color);
+}
+th{
+    color: var(--th-color);
+}
+button{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 8px 15px;
+    
+}
+#login{
+    background-color: var(--main-color);
+    color: var(--table-color);
+}
+#Registration{
+    background-color: var(--sub-color);
+    color: var(--table-color);
+}
